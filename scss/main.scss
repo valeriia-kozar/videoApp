@@ -1,0 +1,20 @@
+@import url(reset.css);
+
+
+.btn_wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+.btn {
+    padding: 20px 20px;
+    color: black;
+    background-color: rgb(156, 161, 165);
+    border-radius: 10px;
+    font-size: 25px;
+}

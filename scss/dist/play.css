@@ -1,0 +1,14 @@
+@import url(reset.css);
+li {
+  color: black;
+}
+
+.wrapper {
+  display: flex;
+  gap: 50px;
+}
+.wrapper .play {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
